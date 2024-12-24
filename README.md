@@ -3,4 +3,4 @@ This is my submission for Capstone project for midule 2 and project i chose is E
 
 Please refere to M2 Capstone.ipynb 
 
-Note: I have used Plotly becausse of its interactiveness and it not viible on github.
+Note: I have used Plotly becausse of its interactiveness and it is not visible on github.
