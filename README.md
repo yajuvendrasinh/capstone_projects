@@ -1,1 +1,4 @@
 # EDA
+This is my submission for Capstone project for midule 2 and project i chose is EDA of Paisabazaar Banking Fraud Analysis
+
+Please refere to M2 Capstone.ipynb 
